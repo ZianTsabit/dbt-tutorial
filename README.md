@@ -1,2 +1,2 @@
-# learn_dbt
+# Learn and explore about dbt
 Learn DBT
